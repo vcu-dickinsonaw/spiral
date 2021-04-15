@@ -13,4 +13,3 @@ def spiralize(number):
             counter = 0
 
     return total
-
